@@ -60,7 +60,7 @@ Are you tired of manually editing your GitHub profile or missing out on the amaz
 
 
 <p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
+<i>Loved the tool? Please consider <a href="">donating 💸</a> to support its continuous<br/> improvement and development!</i>
 </p>
 
 https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
